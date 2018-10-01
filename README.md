@@ -19,7 +19,7 @@ Published under the MIT License.
 
 ### If you can't wait
 - Download the github repository as a zip archive.
-- Extract the folder plugin.audio.rp-podcasts to your Kodi add-on directory.
+- Extract the archive into a folder plugin.audio.rp-podcasts to your Kodi add-on directory.
 - Enable the plugin in Kodi's add-on settings.
 
 
