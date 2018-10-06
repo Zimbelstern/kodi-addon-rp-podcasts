@@ -16,10 +16,12 @@ The source code and documentation files of this software are published under the
 - Use the following Kodi repository which provides you with the most recent version: https://github.com/zimbelstern/kodi-repository-zimbelstern
 
 ### Other versions (not recommended)
-- Download rp-podcasts-*.*.*.zip and extract the folder plugin.audio.rp-podcasts in Kodi's add-on directory
+- Download rp-podcasts-\*.\*.\*.zip and extract the folder plugin.audio.rp-podcasts in Kodi's add-on directory
+
 OR
 - Use the method described here: https://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files
 
+AND
 - Enable the plugin in Kodi's add-on settings.
 
 ## Changelog
