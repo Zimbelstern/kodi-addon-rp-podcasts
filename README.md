@@ -7,7 +7,7 @@ https://rp-online.de/digitales/podcasts/
 
 Not affiliated with the Rheinische Post media group. No warranties of any kind!
 
-Source code and bug reports: https://github.com/zimbelstern/rp-podcasts
+Source code and bug reports: https://github.com/zimbelstern/kodi-addon-rp-podcasts
 
 The source code and documentation files of this software are published under the MIT license (see file LICENSE), NOT INCLUDING icons and other images.
 

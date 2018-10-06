@@ -1,4 +1,4 @@
-# RP-Podcasts
+# RP Podcasts
 
 is a fan-made Kodi add-on for the podcasts of the "Rheinische Post" newspaper:
 https://rp-online.de/digitales/podcasts/
