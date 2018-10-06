@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
-# RP Podcasts: a fan-made Kodi add-on for the podcasts of the "Rheinische Post" newspaper.
-# Not affiliated with the media group. No warranties of any kind!
-# Source and bug reports: https://github.com/zimbelstern/rp-podcasts
+# RP-Podcasts: a fan-made Kodi add-on for the podcasts of the "Rheinische Post" newspaper
+# Source code and bug reports: https://github.com/zimbelstern/kodi-addon-rp-podcasts
 # Copyright (c) 2018 Walfried Schneider
 # Published under the MIT License.
 
