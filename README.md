@@ -1,4 +1,4 @@
-# RP-Podcasts
+# RP Podcasts
 
 is a fan-made Kodi add-on for the podcasts of the "Rheinische Post" newspaper:
 https://rp-online.de/digitales/podcasts/
@@ -16,13 +16,9 @@ The source code and documentation files of this software are published under the
 - Use the following Kodi repository which provides you with the most recent version: https://github.com/zimbelstern/kodi-repository-zimbelstern
 
 ### Other versions (not recommended)
-- Download rp-podcasts-\*.\*.\*.zip and extract the folder plugin.audio.rp-podcasts in Kodi's add-on directory
+- Download the archive rp-podcasts-\*.\*.\*.zip of the version you wish to install
 
-OR
-- Use the method described here: https://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files
-
-AND
-- Enable the plugin in Kodi's add-on settings.
+- Follow the instructions here: https://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files
 
 ## Changelog
 - v1.0.0: First version released!
